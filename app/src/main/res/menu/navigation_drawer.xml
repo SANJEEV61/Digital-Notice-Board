@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/navigation_ebook"
+        android:title="PDF Notice"
+        android:icon="@drawable/ebook"/>
+
+
+    <item android:id="@+id/navigation_website"
+        android:title="Visit Us"
+        android:icon="@drawable/website"/>
+
+    <item android:id="@+id/navigation_notes"
+        android:title="VTU Notes"
+        android:icon="@drawable/notes"/>
+
+    <item android:id="@+id/navigation_results"
+        android:title="VTU Results"
+        android:icon="@drawable/res"/>
+
+    <item android:id="@+id/navigation_cgpa"
+        android:title="Calculate CGPA/SGPA"
+        android:icon="@drawable/calculator"/>
+
+    <item android:id="@+id/navigation_deccan"
+        android:title="NewsPaper"
+        android:icon="@drawable/newz"/>
+
+
+    <item android:id="@+id/navigation_developer"
+        android:title="Developers"
+        android:icon="@drawable/developer"/>
+
+    <item android:id="@+id/navigation_color"
+        android:title="Modes"
+        android:icon="@drawable/ic_color"/>
+
+
+
+</menu>

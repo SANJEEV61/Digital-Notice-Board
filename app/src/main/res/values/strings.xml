@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BRCE DigitalBoard</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/finssansbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/firasansregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/firasanslight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Brindavan Group of Institutions, Bengaluru, India is a premier educational institution of higher learning in the Garden city, Silicon Valley and the knowledge capital of India. The college is located in a calm, serene and eco-friendly environment of Bengaluru.Brindavan Group of Institutions, with 28 years of existence is a comprehensive, student-focused Institution with over 6600 students enrolled in a broad range of Research,Undergraduate,Pre-University, Diploma, and Post graduate programs including several professional Programs such as: Business, Engineering, Architecture, Commerce, Aviation, Journalism and Industry-OrientedSkills.Brindavan Group of Institution’s is one of the leading and top ranked Institutions in Bengaluru, We are proud to be a Institution that’s continuously growing and making positive changes for our students and the community. Our achievements are a testament to our dedicated faculty and staff and the cutting-edge programs they develop. Brindavan Group of Institution’s awards and affiliations that further validate our standing as one of the finest comprehensive Institution in Bengaluru.</string>
+    <string name="about_college2">Brindavan Group of Institutions, a wholly self-contained campus comprising of everything that students on campus would ever require. It is all done with a focus to provide the best possible facilities for the student community as well as the staff members. The college campus is spacious with well-ventilated classrooms, well equipped Modern laboratories, E-Library and library The state of art Central Library representing modern architecture in its design will be centrally air-conditioned can accommodate up to 2,00,000 books and over 1000 journals and lot of moving and open spaces. There is also a Seminar Hall dedicated to every block that is equipped with modern and standard audio, visual aids with advanced presentation tools with a seating capacity of 200 members.Filled with natural elegance which offers a soothing effect on sanities, Brindavan Group of Institutions is equipped with state of art infrastructural facilities. Language lab, computer lab, gym facilities, multi-cuisine food court, in house separate Boys and Girls students hostel.</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+    </string-array>
+
+
+</resources>
